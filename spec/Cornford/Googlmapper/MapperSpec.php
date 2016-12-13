@@ -1,4 +1,6 @@
-<?php namespace spec\Cornford\Googlmapper;
+<?php 
+
+namespace spec\Cornford\Googlmapper;
 
 use Cornford\Googlmapper\Mapper;
 use PhpSpec\ObjectBehavior;
